@@ -1,0 +1,6 @@
+d:\users\user\documents\visual studio 2015\Projects\BFS\BFS\bin\Debug\BFS.exe.config
+d:\Users\User\documents\visual studio 2015\Projects\BFS\BFS\bin\Debug\BFS.exe
+d:\Users\User\documents\visual studio 2015\Projects\BFS\BFS\bin\Debug\BFS.pdb
+d:\Users\User\documents\visual studio 2015\Projects\BFS\BFS\obj\Debug\BFS.csprojResolveAssemblyReference.cache
+d:\Users\User\documents\visual studio 2015\Projects\BFS\BFS\obj\Debug\BFS.exe
+d:\Users\User\documents\visual studio 2015\Projects\BFS\BFS\obj\Debug\BFS.pdb
